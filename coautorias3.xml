@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<publicacoes>
+		<publicacao>
+			<ano>2014</ano>
+			<titulo>Clustering student data with k-means</titulo>
+			<coautores>
+				<autor>Cordeiro dos Santos Filho, Reginaldo.</autor>
+				<autor>Pereira, J.</autor>
+				<autor>Armando Dlima, Viana, Joaquim</autor>
+			</coautores>
+		</publicacao>
+
+		<publicacao>
+			<ano>2015</ano>
+			<titulo>Visualization redes de coautorias</titulo>
+			<coautores>
+				<autor>Cordeiro dos Santos Filho, Reginaldo.</autor>
+				<autor>Pereira, J.</autor>
+				<autor>Mateus dos Reis Matos, Helder.</autor>
+			</coautores>
+		</publicacao>
+
+		<publicacao>
+			<ano>2015</ano>
+			<titulo>Classification prizes of house</titulo>
+			<coautores>
+				<autor>Jose Sousa da Silva, Rodrigo</autor>
+				<autor>Pereira, J.</autor>
+				<autor>Mateus dos Reis Matos, Helder.</autor>
+				<autor>Cardoso Azevedo, Atílio</autor>
+			</coautores>
+		</publicacao>	
+
+		<publicacao>
+			<ano>2016</ano>
+			<titulo>Using K-Nearest Neighbord for</titulo>
+			<coautores>
+				<autor>Carlos de Carvalho, Jean</autor>
+				<autor>Pereira, J.</autor>
+				<autor>Mateus dos Reis Matos, Helder.</autor>
+				<autor>Cardoso Azevedo, Atílio</autor>
+				<autor>Heloísa Pinheiro Silva, Maria</autor>
+			</coautores>
+		</publicacao>	
+
+		<publicacao>
+			<ano>2017</ano>
+			<titulo>Classification email using naive bayes</titulo>
+			<coautores>
+				<autor>Jose Sousa da Silva, Rodrigo</autor>
+				<autor>Pereira, J.</autor>
+				<autor>Mateus dos Reis Matos, Helder.</autor>
+				<autor>Cardoso Azevedo, Atílio</autor>
+				<autor>Lima de Sousa, Samara</autor>
+			</coautores>
+		</publicacao>		
+
+		<publicacao>
+			<ano>2018</ano>
+			<titulo>Classification email using naive bayes</titulo>
+			<coautores>
+				<autor>Jose Sousa da Silva, Rodrigo</autor>
+				<autor>Pereira, J.</autor>
+			</coautores>
+		</publicacao>			
+
+</publicacoes>
